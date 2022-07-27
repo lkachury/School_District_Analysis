@@ -35,6 +35,8 @@ The DataFrames below display the results before and after replacing the Thomas H
 #### School District Summary After:
 ![ds2](https://user-images.githubusercontent.com/108038989/181275547-ef4cea38-a8a2-413f-ba44-5ea0c2a2f78f.png)
 
+After replacing the scores, the average math score droped by 0.1, the average reading score was unchanged, percent passing math decreased by 0.2%, percent passing reading decresead by 0.1%, and overall passing percentage decresed by 0.3%. 
+
 ### 2. How is the school summary affected?
 
 #### School Summary Before:
@@ -42,6 +44,8 @@ The DataFrames below display the results before and after replacing the Thomas H
 
 #### School Summary After:
 ![Screenshot 2022-07-27 112343](https://user-images.githubusercontent.com/108038989/181286364-5c38c9e2-2dca-4477-a073-569d02c56838.png)
+
+After replacing the scores, the average math score dropped by almost 0.07, the average reading score increased by almost 0.05, the percent passing math decreased by 26.36%, the percent passing reading decreased by 27.65%, and percent overall passing decresed by 25.87%.
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -98,4 +102,4 @@ The DataFrames below display the results before and after replacing the Thomas H
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-
+Much of the metrics from the original analysis remained the same. This makes sense given that we had a large set of data, and removing only a small portion of the data (math and reading scores for 9th graders at Thomas High School) would not drastically skew the data. Below is the table from the original analysis, which includes the math and reading scores for 9th graders at Thomas High School.
