@@ -29,72 +29,67 @@ The DataFrames below display the results before and after replacing the Thomas H
 
 ### 1. How is the district summary affected?
 
-School District Summary Before:
+#### School District Summary Before:
 ![ds1](https://user-images.githubusercontent.com/108038989/181275088-2d3509c6-4a54-4aca-a902-aad2197abbbb.png)
 
-School District Summary After:
+#### School District Summary After:
 ![ds2](https://user-images.githubusercontent.com/108038989/181275547-ef4cea38-a8a2-413f-ba44-5ea0c2a2f78f.png)
 
 ### 2. How is the school summary affected?
 
-School Summary Before:
+#### School Summary Before:
 ![Screenshot 2022-07-27 112534](https://user-images.githubusercontent.com/108038989/181286761-54f57244-1df5-4c9f-9900-5fc5be2e928b.png)
 
-School Summary After:
+#### School Summary After:
 ![Screenshot 2022-07-27 112343](https://user-images.githubusercontent.com/108038989/181286364-5c38c9e2-2dca-4477-a073-569d02c56838.png)
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Top 5 Performing Schools Before:
+#### Top 5 Performing Schools Before:
 ![181282914-b1b2dc3f-6318-4af4-8fd2-adc741db6d16](https://user-images.githubusercontent.com/108038989/181291587-771e9ca1-b38b-4bf4-b0a9-12f8f2cfdea9.png)
 
-Top 5 Performing Schools After:
+#### Top 5 Performing Schools After:
 ![after](https://user-images.githubusercontent.com/108038989/181291652-c50d0b30-fca0-487f-ac7a-4ae617808078.png)
 
-Bottom 5 Performing Schools Before: 
+#### Bottom 5 Performing Schools Before: 
 ![image](https://user-images.githubusercontent.com/108038989/181283055-702f18d3-4c4c-44c0-825f-eec536c341ed.png)
 
-Bottom 5 Performing Schools After:
+#### Bottom 5 Performing Schools After:
 ![image](https://user-images.githubusercontent.com/108038989/181278469-6c81bbdf-a59a-46c3-a3cd-7628cad42d32.png)
 
 ### 4. How does replacing the ninth-grade scores affect math and reading scores by grade?
 
-Math Scores Before:
-
+#### Math Scores Before:
 ![math before](https://user-images.githubusercontent.com/108038989/181292576-3893e1df-b1ad-4017-8067-b1cbabd1f87f.png)
 
-Math Scores After:
-
+#### Math Scores After:
 ![math after](https://user-images.githubusercontent.com/108038989/181292588-dc731324-2aac-41b3-b17b-790e6d47b8a3.png)
 
-Reading Scores Before:
-
+#### Reading Scores Before:
 ![reading before](https://user-images.githubusercontent.com/108038989/181292602-3f47bdfb-2667-47e1-b60f-65e8b9e5ff4b.png)
 
-Reading Scores After: 
-
+#### Reading Scores After: 
 ![reading after](https://user-images.githubusercontent.com/108038989/181292619-872e543a-fca6-4572-b157-718ed87600d0.png)
 
 ### 5. How does replacing the ninth-grade scores affect math and reading scores by school spending?
 
-School Spending Before:
-
+#### School Spending Before:
 ![image](https://user-images.githubusercontent.com/108038989/181282546-4e00e66a-d77e-4501-9a02-2ab3cea726de.png)
 
-School Spending After:
+#### School Spending After:
 ![image](https://user-images.githubusercontent.com/108038989/181281085-9c96937b-d6da-4569-974e-ddee49ed97c5.png)
 
 ### 6. How does replacing the ninth-grade scores affect math and reading scores by school size?
 
-School Size Before: 
+#### School Size Before: 
 ![image](https://user-images.githubusercontent.com/108038989/181282227-2b357ddf-b4f8-44f8-8a6a-98df2c4f5fd3.png)
 
-School Size After: 
+#### School Size After: 
 ![image](https://user-images.githubusercontent.com/108038989/181281562-294421cb-520d-47ba-b1bc-78809a90c1fe.png)
 
 ### 7. How does replacing the ninth-grade scores affect math and reading scores by school type?
 
-School Type Before:
+#### School Type Before:
 ![image](https://user-images.githubusercontent.com/108038989/181282118-4027e376-c7f6-4cda-a5f6-a9525a02dad6.png)
 
 #### School Type After:
