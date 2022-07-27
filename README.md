@@ -1,25 +1,8 @@
 # School_District_Analysis
 
-
-
-The school district summary will be a high-level snapshot of the district's key metrics:
-
-Total number of students
-Total number of schools
-Total budget
-Average math score
-Average reading score
-Percentage of students who passed math
-Percentage of students who passed reading
-Overall passing percentage
-We'll find this information and visualize the data with a table like the following:
-
-
-
-
 ## Overview 
 
-Given access to every student’s math and reading scores and school information, assist a city school district chief data scientist to analyze data on student funding and standardized test scores. In order to assist the school board and superintendent in making decisions regarding the school budgets and priorities, we need to aggregate the date and showcase trends in school performance. Utilize the Jupyter Notebook package from Anaconda and the Pandas python library to read the raw data, clean and inspect the data, merge the datasets, perform calculations and create tables. The initial analysis of the school district presents a high-level snapshot of the district's key metrics and an overview of the key metrics for each school consisting of the 5 top and bottom performing schools, average math and reading scores received by students in each grade level at each school, and school performance based on budget per student, school size, and school type. 
+Given access to every student’s math and reading scores and school information, assist a city school district chief data scientist to analyze data on student funding and standardized test scores. In order to assist the school board and superintendent in making decisions regarding the school budgets and priorities, we need to aggregate the date and showcase trends in school performance. Utilize the Jupyter Notebook package from Anaconda and the Pandas python library to read the raw data, clean and inspect the data, merge the datasets, perform calculations and create tables. The initial analysis of the school district presents a high-level snapshot of the district's key metrics (total number of students, total number of schools, total budget, average math and reading scores, percentage of students who passed math and reading, and overall passing percentage) and an overview of the key metrics for each school (5 top and bottom performing schools, average math and reading scores received by students in each grade level at each school, and school performance based on budget per student, school size, and school type). 
 
 ### Purpose
 
