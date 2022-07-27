@@ -24,119 +24,75 @@ The school board cautioned that the students_complete.csv file showed evidence o
 ## Results
 
 The full Jupyter Notebook can be referenced here: https://github.com/lkachury/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
+The DataFrames below display the results before and after replacing the Thomas High School ninth grade math and reading scores with NaNs values.
 
 ### 1. How is the district summary affected?
 
-Initial School District Summary DataFrame:
+School District Summary Before:
 ![ds1](https://user-images.githubusercontent.com/108038989/181275088-2d3509c6-4a54-4aca-a902-aad2197abbbb.png)
 
-Replaced Scores School District Summary DataFrame:
+School District Summary After:
 ![ds2](https://user-images.githubusercontent.com/108038989/181275547-ef4cea38-a8a2-413f-ba44-5ea0c2a2f78f.png)
-
 
 ### 2. How is the school summary affected?
 
-Before School Summary DataFrame:
+School Summary Before:
 ![Screenshot 2022-07-27 112534](https://user-images.githubusercontent.com/108038989/181286761-54f57244-1df5-4c9f-9900-5fc5be2e928b.png)
 
-
-
-Replaced Scores School Summary DataFrame:
+School Summary After:
 ![Screenshot 2022-07-27 112343](https://user-images.githubusercontent.com/108038989/181286364-5c38c9e2-2dca-4477-a073-569d02c56838.png)
-
-
-
-
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-
-Before:
-Top 5:
+Top 5 Performing Schools Before:
 ![image](https://user-images.githubusercontent.com/108038989/181282914-b1b2dc3f-6318-4af4-8fd2-adc741db6d16.png)
 
-Bottom 5: 
-![image](https://user-images.githubusercontent.com/108038989/181283055-702f18d3-4c4c-44c0-825f-eec536c341ed.png)
-
-
-
-
-
-
-
-After
-Top 5 Performing Schools After Replacing Scores:
+Top 5 Performing Schools After:
 ![image](https://user-images.githubusercontent.com/108038989/181278198-666aba1b-4154-46fd-8da4-17ef21cce2f7.png)
 
+Bottom 5 Performing Schools Before: 
+![image](https://user-images.githubusercontent.com/108038989/181283055-702f18d3-4c4c-44c0-825f-eec536c341ed.png)
 
-Bottom 5 Performing Schools After replacing Scores:
+Bottom 5 Performing Schools After:
 ![image](https://user-images.githubusercontent.com/108038989/181278469-6c81bbdf-a59a-46c3-a3cd-7628cad42d32.png)
-
-
-
-
 
 ### 4. How does replacing the ninth-grade scores affect math and reading scores by grade?
 
-Before:
-Math
+Math Scores Before:
 ![image](https://user-images.githubusercontent.com/108038989/181287276-31aaf2e7-e0ad-4db6-a0ab-2b1f21993f3d.png)
 
-
-Reading
-![image](https://user-images.githubusercontent.com/108038989/181287361-14eea925-7038-4ba7-84c9-bdfacc69ee2c.png)
-
-
-
-
-
-
-After: 
-
-Math Scores
-
+Math Scores After:
 ![image](https://user-images.githubusercontent.com/108038989/181280667-9ec8d134-f383-402c-bdaf-797761a44339.png)
 
+Reading Scores Before:
+![image](https://user-images.githubusercontent.com/108038989/181287361-14eea925-7038-4ba7-84c9-bdfacc69ee2c.png)
 
-Reading Scores
-
+Reading Scores After: 
 ![image](https://user-images.githubusercontent.com/108038989/181280433-8889b153-6b85-44c3-8559-343eed2885ec.png)
-
-
-
 
 ### 5. How does replacing the ninth-grade scores affect math and reading scores by school spending?
 
-Before: 
+School Spending Before: 
 ![image](https://user-images.githubusercontent.com/108038989/181282546-4e00e66a-d77e-4501-9a02-2ab3cea726de.png)
 
-
-After:
+School Spending After:
 ![image](https://user-images.githubusercontent.com/108038989/181281085-9c96937b-d6da-4569-974e-ddee49ed97c5.png)
-
 
 ### 6. How does replacing the ninth-grade scores affect math and reading scores by school size?
 
-Before 
+School Size Before: 
 ![image](https://user-images.githubusercontent.com/108038989/181282227-2b357ddf-b4f8-44f8-8a6a-98df2c4f5fd3.png)
 
-
-After
+School Size After: 
 ![image](https://user-images.githubusercontent.com/108038989/181281562-294421cb-520d-47ba-b1bc-78809a90c1fe.png)
-
-
-
 
 ### 7. How does replacing the ninth-grade scores affect math and reading scores by school type?
 
-Before:
+School Type Before:
 ![image](https://user-images.githubusercontent.com/108038989/181282118-4027e376-c7f6-4cda-a5f6-a9525a02dad6.png)
 
-
-After:
+School Type After:
 ![image](https://user-images.githubusercontent.com/108038989/181281739-086570fb-a1bd-4690-bcc8-545065a971d6.png)
-
-
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
