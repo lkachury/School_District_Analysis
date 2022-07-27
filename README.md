@@ -61,7 +61,7 @@ The school summary dataframe was updated by using the 10th-12th graders from Tho
 #### Top and Bottom Performing Schools (Based on Overall Passing Rate) After:
 ![top after](https://user-images.githubusercontent.com/108038989/181308956-620cf88a-3016-4e3f-8e4f-c1e0a1f5f54d.png)
 
-School rankings did not change. Thomas High School saw a decrease of 0.32% in the percent overall passing rate but it is still the second-best performing school in the district. 
+Thomas High School's percent overall passing rate decreased by 0.32% but school rankings did not change.   
 
 ### 4. How does replacing the ninth-grade scores affect math and reading scores by grade?
 
