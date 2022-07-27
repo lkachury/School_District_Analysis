@@ -49,17 +49,11 @@ After replacing the scores, the average math score dropped by almost 0.07, the a
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-#### Top 5 Performing Schools Before:
-![181282914-b1b2dc3f-6318-4af4-8fd2-adc741db6d16](https://user-images.githubusercontent.com/108038989/181291587-771e9ca1-b38b-4bf4-b0a9-12f8f2cfdea9.png)
+#### Top and Bottom Performing Schools Before:
+![top before](https://user-images.githubusercontent.com/108038989/181308875-d0e0c8c2-2936-43c5-a5aa-25ad6d22904e.png)
 
-#### Top 5 Performing Schools After:
-![after](https://user-images.githubusercontent.com/108038989/181291652-c50d0b30-fca0-487f-ac7a-4ae617808078.png)
-
-#### Bottom 5 Performing Schools Before: 
-![image](https://user-images.githubusercontent.com/108038989/181283055-702f18d3-4c4c-44c0-825f-eec536c341ed.png)
-
-#### Bottom 5 Performing Schools After:
-![image](https://user-images.githubusercontent.com/108038989/181278469-6c81bbdf-a59a-46c3-a3cd-7628cad42d32.png)
+#### Top and Bottom Performing Schools After:
+![top after](https://user-images.githubusercontent.com/108038989/181308956-620cf88a-3016-4e3f-8e4f-c1e0a1f5f54d.png)
 
 ### 4. How does replacing the ninth-grade scores affect math and reading scores by grade?
 
