@@ -28,7 +28,7 @@ The full Jupyter Notebook can be referenced here: https://github.com/lkachury/Sc
 1. How is the district summary affected?
 
 Initial School District Summary DataFrame:
-![ds2](https://user-images.githubusercontent.com/108038989/181267105-053a8563-69b4-415b-ab54-daa65f980796.png)
+![ds1](https://user-images.githubusercontent.com/108038989/181275088-2d3509c6-4a54-4aca-a902-aad2197abbbb.png)
 
 Replaced Scores School District Summary DataFrame:
 ![ds1](https://user-images.githubusercontent.com/108038989/181267117-86a70221-3c5e-44d0-a5bd-f8d78b939ccf.png)
