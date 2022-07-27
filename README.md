@@ -78,6 +78,21 @@ Bottom 5 Performing Schools After replacing Scores:
 
 ### 4. How does replacing the ninth-grade scores affect math and reading scores by grade?
 
+Before:
+Math
+![image](https://user-images.githubusercontent.com/108038989/181287276-31aaf2e7-e0ad-4db6-a0ab-2b1f21993f3d.png)
+
+
+Reading
+![image](https://user-images.githubusercontent.com/108038989/181287361-14eea925-7038-4ba7-84c9-bdfacc69ee2c.png)
+
+
+
+
+
+
+After: 
+
 Math Scores
 
 ![image](https://user-images.githubusercontent.com/108038989/181280667-9ec8d134-f383-402c-bdaf-797761a44339.png)
