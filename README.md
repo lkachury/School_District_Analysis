@@ -37,11 +37,13 @@ Replaced Scores School District Summary DataFrame:
 ### 2. How is the school summary affected?
 
 Before School Summary DataFrame:
-![image](https://user-images.githubusercontent.com/108038989/181284429-29deb17f-0f3d-4949-aba8-78bd423cab69.png)
+![Screenshot 2022-07-27 112534](https://user-images.githubusercontent.com/108038989/181286761-54f57244-1df5-4c9f-9900-5fc5be2e928b.png)
+
 
 
 Replaced Scores School Summary DataFrame:
-![image](https://user-images.githubusercontent.com/108038989/181285422-8134d1d3-73c8-4596-b62c-f4d10ab3c3a5.png)
+![Screenshot 2022-07-27 112343](https://user-images.githubusercontent.com/108038989/181286364-5c38c9e2-2dca-4477-a073-569d02c56838.png)
+
 
 
 
