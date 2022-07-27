@@ -6,7 +6,7 @@ Given access to every student’s math and reading scores and school information
 
 ### Purpose
 
-The school board cautioned that the students_complete.csv file showed evidence of academic dishonesty; specifically, the Thomas High School ninth grade reading and math scores appeared to have been altered. Since the full extent of the academic dishonesty is unknown, the Thomas High School ninth grade math and reading scores will be replaced with NaNs while keeping the rest of the data intact. The purpose of this challenge is to repeat the school district analysis with the replaced math and reading scores and describe how these changes affect the initial school district metrics.
+The school board cautioned that the students_complete.csv file showed evidence of academic dishonesty; specifically, the Thomas High School ninth grade reading and math scores appeared to have been altered. Since the full extent of the academic dishonesty is unknown, the Thomas High School ninth grade math and reading scores will be replaced with NaNs (by using the Pandas Numpy library) while keeping the rest of the data intact. The purpose of this challenge is to repeat the school district analysis with the replaced math and reading scores and describe how these changes affect the initial school district metrics.
 
 ## Resources
 ### Data Source 
@@ -17,11 +17,13 @@ The school board cautioned that the students_complete.csv file showed evidence o
 - Python 3.7.6
 - Conda 4.13.0
 - Jupyter Notebook 
-- Dependemcies:
+- Dependencies:
   - Python Pandas Library
   - Python Numpy Library
 
 ## Results
+
+The full Jupyter Notebook can be referenced here:
 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
@@ -36,8 +38,6 @@ Scores by school type
 
 
 
-Deliverable 1 Instructions
-Using the Pandas loc method with conditional statements and comparison and logical operators, select the ninth-grade reading and math scores for Thomas High School. Then, use the Pandas NumPy module to change the reading and math scores to NaN.
 
 
 ## Summary
