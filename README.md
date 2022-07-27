@@ -43,8 +43,6 @@ After replacing the scores, the average math score droped by 0.1, the average re
 
 ### 2. How is the school summary affected?
 
-The school summary dataframe was updated by using the 10th-12th graders from Thomas High School. 
-
 #### School Summary Before:
 ![Screenshot 2022-07-27 112534](https://user-images.githubusercontent.com/108038989/181286761-54f57244-1df5-4c9f-9900-5fc5be2e928b.png)
 
@@ -54,6 +52,8 @@ The school summary dataframe was updated by using the 10th-12th graders from Tho
 After replacing the scores, the average math score dropped by almost 0.07, the average reading score increased by almost 0.05, the percent passing math decreased by 26.36%, the percent passing reading decreased by 27.65%, and percent overall passing decresed by 25.87%.
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+The school summary dataframe was updated by using the 10th-12th graders from Thomas High School. 
 
 #### Top and Bottom Performing Schools (Based on Overall Passing Rate) Before:
 ![top before](https://user-images.githubusercontent.com/108038989/181309436-379e194c-34bc-4ecc-995e-d7716c35bd63.png)
