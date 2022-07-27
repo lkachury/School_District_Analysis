@@ -39,7 +39,7 @@ The district summary dataframe was updated by first recalculating the total stud
 #### School District Summary After:
 ![ds2](https://user-images.githubusercontent.com/108038989/181275547-ef4cea38-a8a2-413f-ba44-5ea0c2a2f78f.png)
 
-After replacing the scores, the average math score droped by 0.1, the average reading score was unchanged, percent passing math decreased by 0.2%, percent passing reading decresead by 0.1%, and overall passing percentage decresed by 0.3%. 
+After replacing the scores, the average math score droped by 0.1 points, the average reading score was unchanged, percent passing math rate decreased by 0.2%, percent passing reading rate decresead by 0.1%, and overall passing percentage rate decresed by 0.3%. 
 
 ### 2. How is the school summary affected?
 
@@ -49,7 +49,7 @@ After replacing the scores, the average math score droped by 0.1, the average re
 #### School Summary After:
 ![Screenshot 2022-07-27 112343](https://user-images.githubusercontent.com/108038989/181286364-5c38c9e2-2dca-4477-a073-569d02c56838.png)
 
-After replacing the scores, the average math score dropped by almost 0.07, the average reading score increased by almost 0.05, the percent passing math decreased by 26.36%, the percent passing reading decreased by 27.65%, and percent overall passing decresed by 25.87%.
+After replacing the scores, the average math score dropped by almost 0.07 points, the average reading score increased by almost 0.05 points, the percent passing math rate decreased by 26.36%, the percent passing reading rate decreased by 27.65%, and percent overall passing rate decreased by 25.87%.
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -111,33 +111,10 @@ No changes in school type.
 
 ## Summary
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Most of the metrics remained the same and saw no changes after replacing the Thomas High School ninth grade math and reading scores with NaN values. Since this is a large dataset, removing a small sample of the data does not significantly change the results.  
 
+However, after replacing the scores, the average math score dropped by almost 0.07 points, the average reading score increased by almost 0.05 points, the percent passing math rate decreased by 26.36%, and the percent passing reading rate decreased by 27.65%. The percent overall passing rate significantly decreased by 25.87%, removing Thomas High School from the Top 5 performing schools in the district. 
 
-1.The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
-2.Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
-3.Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
-4.In addition to the overall passing rate, the campus math and reading averages and passing percentages all saw shifts.
-The major changes will be seen at the lower views of the disaggregated data with minor impact to the larger data views.
+Thomas High School's percent overall passing rate decreased by 0.32% when the school summary was reevaluated for the 10th to 12th graders. The school rankings did not change and Thomas High School still remained the second-best performing school in the district. 
 
-
-Percentages of Passing (Math, Reading and Overall) scores increased at THS
-Percentages of Passing (Math, Reading and Overall) scores increased for Charter school types
-THS is considered one of the top performing schools when we remove the ninth grade scores.
-The Percentage of Passing (Math, Reading and Overall) scores increase for ninth graders across all scores when the THS ninth grade scores are removed.
-
-
-Much of the metrics from the original analysis remained the same. This makes sense given that we had a large set of data, and removing only a small portion of the data (math and reading scores for 9th graders at Thomas High School) would not drastically skew the data. Below is the table from the original analysis, which includes the math and reading scores for 9th graders at Thomas High School.
-
-
-After nullifying the scores of the 9th graders of Thomas High School, we didn’t see much of a difference in the school district summary. The difference was only by 1%.
-After nullifying the scores of the 9th graders, Thomas High School did not qualify to be in the top 5 ranking schools.
-But when the scores of Thomas High School were reevaluated for 10th to 12th graders, the average scores and percentages of Thomas High School drastically changed levelling up Thomas High School.
-After the recalculation of the scores of 10th to 12th grade of Thomas High School, it was ranking second in the overall percentage among the top 5 schools of the district.
-We can also conclude the following from the overall analyis : The schools that did academically well were mostly charter schools. Hence the district need to find ways to guide the district schools on how they can work on their academic progress. The schools with a high volume of students had a direct impact onto their academic success and hence the district needs to address that aspect.
-
-
-
-The overall Average math scores and average reading scores decreased however, the impact to the percentage passing each class was only marginally impacted due to the small sample size.
-The removal of 9th grade scores reduced the performance at Thomas High School compared to other schools.
-The impact of the removal of the data for the 9th graders at Thomas high school had the largest impact on the categories evaluted in the school summary analysis. For each category, school type, school size and budget per student categoy, a reduction in percentages of the passing math, passing reading and overall passing percentages was observed in the revised analysis suggesting that the 9th graders at Thomas High School scored high on both math and reading. Although cheating may or may not have occurred, results were negatively impacted by 3-6% in the school type, size and budget categories where Thomas High School 9th grade student performance data was removed.
+From the school district analysis, we can conclude that spending ranges under $630 per student, small (<1000) to medium (1000-1999) school size, and charter type schools led to significantly higher percent overall passing rates. 
