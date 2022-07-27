@@ -23,21 +23,40 @@ The school board cautioned that the students_complete.csv file showed evidence o
 
 ## Results
 
-The full Jupyter Notebook can be referenced here:
+The full Jupyter Notebook can be referenced here: https://github.com/lkachury/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
 
-Using bulleted lists and images of DataFrames as support, address the following questions.
+1. How is the district summary affected?
 
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+Initial School District Summary DataFrame:
+![ds2](https://user-images.githubusercontent.com/108038989/181267105-053a8563-69b4-415b-ab54-daa65f980796.png)
+
+Replaced Scores School District Summary DataFrame:
+![ds1](https://user-images.githubusercontent.com/108038989/181267117-86a70221-3c5e-44d0-a5bd-f8d78b939ccf.png)
+
+2. How is the school summary affected?
+
+Initial School Summary DataFrame:
+
+
+Replaced Scores School Summary DataFrame:
+
+
+3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
+4. How does replacing the ninth-grade scores affect math and reading scores by grade?
 
 
 
+5. How does replacing the ninth-grade scores affect math and reading scores by school spending?
+
+
+
+6. How does replacing the ninth-grade scores affect math and reading scores by school size?
+
+
+
+7. How does replacing the ninth-grade scores affect math and reading scores by school type?
 
 
 ## Summary
