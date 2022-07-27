@@ -24,6 +24,7 @@ The school board cautioned that the students_complete.csv file showed evidence o
 ## Results
 
 The full Jupyter Notebook can be referenced here: https://github.com/lkachury/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
+
 The DataFrames below display the results before and after replacing the Thomas High School ninth grade math and reading scores with NaNs values.
 
 ### 1. How is the district summary affected?
