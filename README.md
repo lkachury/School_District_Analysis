@@ -71,13 +71,32 @@ Reading Scores
 
 5. How does replacing the ninth-grade scores affect math and reading scores by school spending?
 
+Before: 
+
+
+After:
+![image](https://user-images.githubusercontent.com/108038989/181281085-9c96937b-d6da-4569-974e-ddee49ed97c5.png)
 
 
 6. How does replacing the ninth-grade scores affect math and reading scores by school size?
 
+Before 
+
+
+After
+![image](https://user-images.githubusercontent.com/108038989/181281562-294421cb-520d-47ba-b1bc-78809a90c1fe.png)
+
+
 
 
 7. How does replacing the ninth-grade scores affect math and reading scores by school type?
+
+before:
+
+
+After:
+![image](https://user-images.githubusercontent.com/108038989/181281739-086570fb-a1bd-4690-bcc8-545065a971d6.png)
+
 
 
 ## Summary
