@@ -25,7 +25,7 @@ The school board cautioned that the students_complete.csv file showed evidence o
 
 The full Jupyter Notebook can be referenced here: https://github.com/lkachury/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
 
-The loc method was utilized to select all the reading and math scores for the ninth graders in Thomas High school and replace those values with Nans:
+The loc method was utilized to select all the reading and math scores for the ninth graders in Thomas High school and replace those values with NaNs:
 
 ![nan](https://user-images.githubusercontent.com/108038989/181342241-60c56433-fdb5-494f-a62a-200fb03d79ed.png)
 
