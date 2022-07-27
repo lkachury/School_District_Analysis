@@ -8,6 +8,18 @@ Given access to every student’s math and reading scores and school information
 
 The school board cautioned that the students_complete.csv file showed evidence of academic dishonesty; specifically, the Thomas High School ninth grade reading and math scores appeared to have been altered. Since the full extent of the academic dishonesty is unknown, the Thomas High School ninth grade math and reading scores will be replaced with NaNs while keeping the rest of the data intact. The purpose of this challenge is to repeat the school district analysis with the replaced math and reading scores and describe how these changes affect the initial school district metrics.
 
+## Resources
+### Data Source 
+- schools_complete.csv
+- students_complete.csv
+
+### Software
+- Python 3.7.6
+- Conda 4.13.0
+- Jupyter Notebook 
+- Dependemcies:
+  - Python Pandas Library
+  - Python Numpy Library
 
 ## Results
 
