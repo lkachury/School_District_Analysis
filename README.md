@@ -49,11 +49,13 @@ After replacing the scores, the average math score dropped by almost 0.07, the a
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-#### Top and Bottom Performing Schools Before:
+#### Top and Bottom Performing Schools (Based on Overall Passing Rate) Before:
 ![top before](https://user-images.githubusercontent.com/108038989/181309436-379e194c-34bc-4ecc-995e-d7716c35bd63.png)
 
-#### Top and Bottom Performing Schools After:
+#### Top and Bottom Performing Schools (Based on Overall Passing Rate) After:
 ![top after](https://user-images.githubusercontent.com/108038989/181308956-620cf88a-3016-4e3f-8e4f-c1e0a1f5f54d.png)
+
+School rankings did not change. Thomas High School saw a decrease of 0.32% in the percent overall passing rate but it is still the second-best performing school in the district. 
 
 ### 4. How does replacing the ninth-grade scores affect math and reading scores by grade?
 
@@ -69,6 +71,8 @@ After replacing the scores, the average math score dropped by almost 0.07, the a
 #### Reading Scores After: 
 ![reading after](https://user-images.githubusercontent.com/108038989/181292619-872e543a-fca6-4572-b157-718ed87600d0.png)
 
+All scores remained the same except the 9th grade math and reading scores for Thomas High School, since those scores were replaced with NaN values.
+
 ### 5. How does replacing the ninth-grade scores affect math and reading scores by school spending?
 
 #### School Spending Before:
@@ -76,6 +80,8 @@ After replacing the scores, the average math score dropped by almost 0.07, the a
 
 #### School Spending After:
 ![image](https://user-images.githubusercontent.com/108038989/181281085-9c96937b-d6da-4569-974e-ddee49ed97c5.png)
+
+No changes in school spending.
 
 ### 6. How does replacing the ninth-grade scores affect math and reading scores by school size?
 
@@ -85,6 +91,8 @@ After replacing the scores, the average math score dropped by almost 0.07, the a
 #### School Size After: 
 ![image](https://user-images.githubusercontent.com/108038989/181281562-294421cb-520d-47ba-b1bc-78809a90c1fe.png)
 
+No changes in school size.
+
 ### 7. How does replacing the ninth-grade scores affect math and reading scores by school type?
 
 #### School Type Before:
@@ -92,6 +100,8 @@ After replacing the scores, the average math score dropped by almost 0.07, the a
 
 #### School Type After:
 ![image](https://user-images.githubusercontent.com/108038989/181281739-086570fb-a1bd-4690-bcc8-545065a971d6.png)
+
+No changes in school type.
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
